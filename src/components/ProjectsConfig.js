@@ -27,7 +27,7 @@ const projectsConfig = [
     title: "Solar System",
     previewImage: SpaceWeb,
     description:
-      "In this project, i was able to implement state to manage the data being displayed on the ui at certain times, routing was implemented to navigate across different pages. This project was built with ReactJs and TailwindCss",
+      "In this project, i was able to implement react state management to manage the data being displayed on the ui at certain times, routing was implemented to navigate across different pages. This project was built with ReactJs and TailwindCss",
     liveDemoLink: "https://space-website-r2zu.vercel.app/",
     githubLink: "https://github.com/AgonoDavid/SpaceWebsite",
     backgroundColor: "bg-gray-800",
