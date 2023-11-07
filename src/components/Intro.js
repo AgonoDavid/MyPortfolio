@@ -9,8 +9,7 @@ function Intro() {
         Hi 👋 I am <span style={{ color: "#5A69DE" }}>David Agono</span>
       </h1>
       <span className="mt-5 font-normal text-center text-md sm:w-4/5">
-        Frontend Web Developer with 1 year of experience who love's learning and
-        building cool stuff
+      Frontend Web Developer with 1 year of experience who loves learning and building cool stuff.
       </span>
       <div className="flex space-x-6 mt-3">
         <a
