@@ -14,15 +14,7 @@ const projectsConfig = [
     githubLink: "https://github.com/AgonoDavid/AgonoDavid-FrontendDeveloper",
     backgroundColor: "bg-blue-500",
   },
-  {
-    title: "TODO App",
-    previewImage: Todo,
-    description:
-      "In this project, I built a Todo app, that uses state to create a new array when any individual uses the app, every output on the ui is triggered by manipulating the inputts in the array, which can be either addition or removal. This was built with ReactJs and TailwindCss",
-    liveDemoLink: "https://todo-rho-gray.vercel.app/",
-    githubLink: "https://github.com/AgonoDavid/Todo",
-    backgroundColor: "bg-indigo-500",
-  },
+
   {
     title: "Solar System",
     previewImage: SpaceWeb,
