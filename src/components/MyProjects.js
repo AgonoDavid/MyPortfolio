@@ -3,14 +3,6 @@ import ProjectsConfig from "./ProjectsConfig";
 import { Element } from "react-scroll";
 
 function MyProjects() {
-  const truncate = (str, len) => {
-    if (str.length >= len) {
-      return str.substr(0, len) + "...";
-    } else {
-      return str;
-    }
-  };
-
   return (
     <Element name="myProjects">
       <div className="mb-6 sm:mb-44 py-5">

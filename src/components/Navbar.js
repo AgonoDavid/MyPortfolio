@@ -17,11 +17,6 @@ function Navbar() {
         style={{ lineHeight: "45px" }}
       >
         <li className="list-none cursor-pointer">
-          <Link to="experience" smooth={true} offset={-100}>
-            Experience
-          </Link>
-        </li>
-        <li className="list-none cursor-pointer">
           <Link to="skills" smooth={true} offset={-100}>
             Skills
           </Link>
@@ -36,12 +31,6 @@ function Navbar() {
             Projects
           </Link>
         </li>
-        <li className="list-none cursor-pointer">
-          <Link to="myPublishedVideos" smooth={true} offset={-100}>
-            Videos
-          </Link>
-        </li>
-
         <li className="list-none cursor-pointer">
           <Link to="contactMe" smooth={true} offset={-100}>
             Contact Me

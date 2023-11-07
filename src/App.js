@@ -5,7 +5,7 @@ import SkillsSection from "./components/SkillsSection";
 import AboutMe from "./components/AboutMe";
 import MyProjects from "./components/MyProjects";
 import { BrowserRouter as Router } from "react-router-dom";
-// import Contact from "./components/Contact";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         <SkillsSection />
         <AboutMe />
         <MyProjects />
-        {/* <Contact /> */}
+        <Contact />
       </Layout>
     </Router>
   );

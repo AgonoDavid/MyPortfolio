@@ -4,7 +4,7 @@ import githubIcon from "../images/icons8-github-30.png";
 import linkedInIcon from "../images/icons8-linkedin-2-30.png";
 function Intro() {
   return (
-    <div className="flex flex-col h-screen text-white justify-center items-center bg">
+    <div className="flex flex-col h-screen text-white justify-center items-center">
       <h1 className="relative font-semibold text-center md:text-5xl sm:text-3xl text-xl -mt-28">
         Hi 👋 I am <span style={{ color: "#5A69DE" }}>David Agono</span>
       </h1>
