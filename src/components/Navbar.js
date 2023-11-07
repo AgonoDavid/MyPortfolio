@@ -8,9 +8,9 @@ function Navbar() {
     <div className="backdrop-filter backdrop-blur-lg bg-opacity-70 px-8 flex items-baseline py-2 sticky top-0 shadow bg-transparent z-20 text-white max-w-7xl mx-auto text-sm">
       <span className=" mt-1  font-medium flex">
         <span className="mr-1" style={{ color: "#5A69DE" }}>
-          Yatharth
+          David
         </span>
-        <span>V.</span>
+        <span>A.</span>
       </span>
       <div
         className="hidden w-full lg:flex justify-end space-x-10 opacity-70 "

@@ -9,7 +9,7 @@ const projectsConfig = [
     title: "SPACE X",
     previewImage: Rockets,
     description:
-      "Portfolio website built using ReactJS and TailwindCSS. Includes information about me and my skills along with side projects.",
+      "Space X Website, built to show Rocket and Capsule details, app built with ReactJs and TailwindCss.",
     liveDemoLink: "https://agono-david-frontend-developer.vercel.app/",
     githubLink: "https://github.com/AgonoDavid/AgonoDavid-FrontendDeveloper",
     backgroundColor: "bg-blue-500",
@@ -18,16 +18,25 @@ const projectsConfig = [
     title: "TODO App",
     previewImage: Todo,
     description:
-      "In this project, I built Interactive CLI Tool for writing emojis in commit messages.It gives user some list of emojis in terminal before making commit. From that list user can select emojis according to the commit task he has done. After choosing that user can right commit message along with that emoji.",
+      "In this project, I built a Todo app, that uses state to create a new array when any individual uses the app, every output on the ui is triggered by manipulating the inputts in the array, which can be either addition or removal. This was built with ReactJs and TailwindCss",
     liveDemoLink: "https://todo-rho-gray.vercel.app/",
     githubLink: "https://github.com/AgonoDavid/Todo",
     backgroundColor: "bg-indigo-500",
   },
   {
+    title: "Solar System",
+    previewImage: SpaceWeb,
+    description:
+      "In this project, i was able to implement state to manage the data being displayed on the ui at certain times, routing was implemented to navigate across different pages. This project was built with ReactJs and TailwindCss",
+    liveDemoLink: "https://space-website-r2zu.vercel.app/",
+    githubLink: "https://github.com/AgonoDavid/SpaceWebsite",
+    backgroundColor: "bg-gray-800",
+  },
+  {
     title: "Digital Agency Landing Page",
     previewImage: DigitalAgency,
     description:
-      "Form creation tool similar to typeform and form.app Built using nextjs. Supports typeform and Airtable type of forms. Supports drag and drop functionality to create forms with ease. User can share links of form to get responses",
+      "A landing Page built for practice, this particular project was done to test my styling, it proved quite challenging due to the position of certain components but it was a fun project. This was built with Html and css",
     liveDemoLink: "https://tiny-truffle-159b3f.netlify.app/",
     githubLink: "https://github.com/AgonoDavid/DigitalAgencySolution",
     backgroundColor: "bg-blue-500",
@@ -36,20 +45,10 @@ const projectsConfig = [
     title: "Branding Landing Page",
     previewImage: Landwind,
     description:
-      "Full stack blogging application which i actually built as a part of assignment for one startup hiring. It was fun building this project. Learnt a lot of things. Built using nextjs, tailwind css, mongodb and appwrite",
+      "A landing page built with Html, Css and Javascript to test my ui skill.",
     liveDemoLink: "https://landwind-agonodavid.vercel.app/",
     githubLink: "https://github.com/AgonoDavid/Landwind",
     backgroundColor: "",
-  },
-
-  {
-    title: "Solar System",
-    previewImage: SpaceWeb,
-    description:
-      "Fast One to One messaging app built using NextJS, Styled Components, Firebase v8 (Firestore and Auth), and React Firebase hooks for realtime fetching of data from the database. It allows user to send messages in realtime and can see when the person was last time online. It was amazing learning experience while building this project. ",
-    liveDemoLink: "https://space-website-r2zu.vercel.app/",
-    githubLink: "https://github.com/AgonoDavid/SpaceWebsite",
-    backgroundColor: "bg-gray-800",
   },
 ];
 
