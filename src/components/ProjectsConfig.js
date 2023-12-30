@@ -3,6 +3,7 @@ import Rockets from "../images/RocketsWebsite.png";
 import SpaceWeb from "../images/SpaceWebsite.png";
 import Todo from "../images/TodoApp.png";
 import Landwind from "../images/Landwind.png";
+import Finsweet from "../images/finsweet.png";
 
 const projectsConfig = [
   {
@@ -40,6 +41,15 @@ const projectsConfig = [
       "A landing page built with Html, Css and Javascript to test my ui skill.",
     liveDemoLink: "https://landwind-agonodavid.vercel.app/",
     githubLink: "https://github.com/AgonoDavid/Landwind",
+    backgroundColor: "",
+  },
+  {
+    title: "Finsweet Complete Web Application",
+    previewImage: Finsweet,
+    description:
+      "A dynamic web application developed using React.js, styled with Chakra UI, and enriched with Framer Motion for captivating animations. This project seamlessly blends a powerful front-end framework with a modern and user-friendly design, making it both visually appealing and highly functional.",
+    liveDemoLink: "https://finsweet-lyart.vercel.app/",
+    githubLink: "https://github.com/AgonoDavid/Finsweet",
     backgroundColor: "",
   },
 ];
