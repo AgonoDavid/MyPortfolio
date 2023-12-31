@@ -29,11 +29,13 @@ function AboutMe() {
               David Agono
             </span>
             <span className="mt-2 text-sm text-gray-300 leading-relaxed">
-              I am based in Lagos Nigeria. I am currently a freelance Frontend
-              Web Developer open to Internships, So as grow my knowlegde and
-              hone my skills with trending technologies. I have around 1 year of
-              experience. I believe in hard work and I am very passionate about
-              self development
+              I am a dedicated React.js Frontend Web Developer based in Lagos,
+              Nigeria, actively pursuing internship opportunities to continually
+              refine and elevate my skills in alignment with current industry
+              trends. Committed to diligence and fueled by a fervor for ongoing
+              self-development, I am enthusiastic about contributing my
+              expertise to innovative projects and excelling in dynamic
+              professional environments.
             </span>
           </div>
         </div>

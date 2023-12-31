@@ -3,6 +3,7 @@ import HTMLIcon from "../images/htmlIcon.png";
 import CSSIcon from "../images/cssIcon.png";
 import JsIcon from "../images/jsicon.webp";
 import ReactIcon from "../images/reactIcon.png";
+import ChakraIcon from "../images/icons8-chakra-ui-48.png";
 import TailwindIcon from "../images/icons8-tailwindcss.svg";
 import { Element } from "react-scroll";
 
@@ -30,6 +31,7 @@ function SkillsSection() {
             <img src={JsIcon} width="60" alt="Icons" />
             <img src={ReactIcon} width="60" alt="Icons" />
             <img src={TailwindIcon} width="60" alt="Icons" />
+            <img src={ChakraIcon} width="60" alt="Icons" />
           </div>
         </div>
       </div>

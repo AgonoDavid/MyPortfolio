@@ -8,9 +8,6 @@ function Intro() {
       <h1 className="relative font-semibold text-center md:text-5xl sm:text-3xl text-xl -mt-28">
         Hi 👋 I am <span style={{ color: "#5A69DE" }}>David Agono</span>
       </h1>
-      <span className="mt-5 font-normal text-center text-md sm:w-4/5">
-      Frontend Web Developer with 1 year of experience who loves learning and building cool stuff.
-      </span>
       <div className="flex space-x-6 mt-3">
         <a
           href="https://docs.google.com/document/d/1Fi2DMnEM1-evr3EtUcZYl9N94NY_2TY1nTwntXCR48A/edit?usp=sharing"
