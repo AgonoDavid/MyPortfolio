@@ -29,11 +29,11 @@ function AboutMe() {
               David Agono
             </span>
             <span className="mt-2 text-sm text-gray-300 leading-relaxed">
-              I am a dedicated React.js Frontend Web Developer based in Lagos,
-              Nigeria, actively growing in knowledge of emerging stacks to
-              continually refine and elevate my skills in alignment with current
-              industry trends. Committed to diligence and fueled by a fervor for
-              ongoing self-development, I am enthusiastic about contributing my
+              I am a Frontend Web Developer based in Lagos, Nigeria, actively
+              growing in knowledge of emerging stacks to continually refine and
+              elevate my skills in alignment with current industry trends.
+              Committed to diligence and fueled by a fervor for ongoing
+              self-development, I am enthusiastic about contributing my
               expertise to innovative projects and excelling in dynamic
               professional environments.
             </span>
