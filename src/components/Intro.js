@@ -10,7 +10,7 @@ function Intro() {
       </h1>
       <div className="flex space-x-6 mt-3">
         <a
-          href="https://docs.google.com/document/d/1Fi2DMnEM1-evr3EtUcZYl9N94NY_2TY1nTwntXCR48A/edit?usp=sharing"
+          href="https://drive.google.com/file/d/1BmQL5usRJNMCBADX7vM-PpjCA0HRzIYr/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >

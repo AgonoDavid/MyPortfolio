@@ -25,17 +25,11 @@ function AboutMe() {
           </div>
           <div className="flex flex-col text-lg mt-20 md:mt-16 lg:mt-28">
             <span className="text-sm text-gray-300">Hello, I am</span>
-            <span className="text-2xl font-semibold mt-2 text-blue-500">
+            <span className="text-3xl font-semibold mt-2 text-blue-500">
               David Agono
             </span>
-            <span className="mt-2 text-sm text-gray-300 leading-relaxed">
-              I am a Frontend Web Developer based in Lagos, Nigeria, actively
-              growing in knowledge of emerging stacks to continually refine and
-              elevate my skills in alignment with current industry trends.
-              Committed to diligence and fueled by a fervor for ongoing
-              self-development, I am enthusiastic about contributing my
-              expertise to innovative projects and excelling in dynamic
-              professional environments.
+            <span className="mt-2 text-md text-gray-300 leading-relaxed">
+             a seasoned Frontend Web Developer and WordPress Developer with over 3 years of experience, specializing in creating tailored solutions across various industries, including eCommerce, legal, technology, career coaching, healthcare, and more. My expertise spans the development of landing pages, portfolios, and full-scale websites. Based in Lagos, Nigeria, I am committed to staying at the forefront of emerging technologies and best practices.
             </span>
           </div>
         </div>

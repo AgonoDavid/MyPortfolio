@@ -5,6 +5,8 @@ import JsIcon from "../images/jsicon.webp";
 import ReactIcon from "../images/reactIcon.png";
 import ChakraIcon from "../images/icons8-chakra-ui-48.png";
 import TailwindIcon from "../images/icons8-tailwindcss.svg";
+import Wordpresslogo from "../images/wordpress logo.png"
+import PHPlogo from "../images/PHP LOGO.png"
 import { Element } from "react-scroll";
 
 function SkillsSection() {
@@ -32,6 +34,8 @@ function SkillsSection() {
             <img src={ReactIcon} width="60" alt="Icons" />
             <img src={TailwindIcon} width="60" alt="Icons" />
             <img src={ChakraIcon} width="60" alt="Icons" />
+            <img src={Wordpresslogo} width="60" alt="Icons" />
+            <img src={PHPlogo} width="60" alt="Icons" />
           </div>
         </div>
       </div>
